@@ -1,0 +1,144 @@
+body {
+    background-color: #2E2F2F;
+    font-family: 'Montserrat', sans-serif;
+    color: #ACBDBA;
+}
+
+
+
+.projectsection-1 {
+    color:  white;
+}
+.main-section {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.about-me {
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 50%;
+}
+
+.about-me-profession {
+    font-size: 14px;
+    color: green;
+    margin-top: -20;
+    padding-left: 2;
+    margin-bottom: 20;
+}
+.projects {
+    padding-left: 10;
+}
+.in-sidebar {
+    padding-left: 50px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 100%;
+}
+
+.important-titles {
+    color: white;
+}
+
+.sidebar {
+    background-color: #051014;
+    margin-left: -11;
+    margin-top: -11;
+}
+
+.work-experience {
+    margin-top: 40px;
+    padding-left: 10px;
+
+}
+
+#prezent {
+    margin-top: -15;
+    padding-left: 10;
+
+    font-size: 10px;
+}
+
+#Freelancing {
+    padding-left: 10;
+    margin-top: -10;
+    text-decoration-line: underline;
+    text-decoration-thickness: 3px;
+}
+
+#education-institute {
+    padding-left: 10;
+    margin-top: -10;
+    color: white;
+}
+
+#education-institute-time {
+    margin-top: -20;
+    padding-left: 10;
+    font-size: 10px;
+}
+
+#education-institute2 {
+    padding-left: 10;
+    margin-top: -10;
+    color: white;
+}
+
+#education-institute-time2 {
+    margin-top: -20;
+    padding-left: 10;
+    font-size: 10px;
+
+}
+
+.education {
+    margin-top: 40px;
+    padding-left: 10px;
+}
+
+.diplome {
+    margin-top: 40px;
+    padding-left: 10px;
+}
+
+.list1 {
+    margin-top: -10px;
+}
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+#imagine_eu {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.imagine_diplomna {
+    margin-top: 50px;
+}
+
+.previous {
+    background-color: #f1f1f1;
+    color: black;
+  }
+
+  #nume {
+    margin-top: -1px;
+  }
